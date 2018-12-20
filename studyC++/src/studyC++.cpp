@@ -15,7 +15,7 @@ int main() {
 	char *s = "Golden Global View";
 
 	memset(s, 'G', 6);
-	//打印字符串
+
 	printf("%s", s);
 
 	getchar();
