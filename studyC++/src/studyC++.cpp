@@ -16,6 +16,7 @@ int main() {
 
 	memset(s, 'G', 6);
 
+	//提交打印
 	printf("%s", s);
 
 	getchar();
